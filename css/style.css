@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+body{ margin:0; padding:0; background:#f3f9ff;}
+.main{ width:1024px; height:600px; margin:auto; background: url(../images/insect.jpg); background-position:center top;}
+.main2{ width:1024px; height:600px; margin:auto; }
+.mainbox{ width:1000px; height:576px; margin:12px ; border:1px solid #666;}
+.mainin{ width:990px; height:70px; padding:5px ; border-bottom:1px solid #666; overflow:hidden;}
+.mainindown{ width:990px; height:40px; padding:5px ;  overflow:hidden;}
+.maincntant{ width:990px;padding:5px 5px 0 5px; overflow:hidden;}
+.leftside{ float:left; width:30px; }
+.rightside{ float:right; width:950px; margin:0 0 0 10px; height:70px;}
+.button{cursor:pointer; border:none; background:#ccf300; border-radius:5px; box-shadow:0 0 3px #ccc; color:#333; height:30px; margin:2px; float:left; }
+.button1{ width:130px;}
+.button2{ width:150px;}
+.button3{ width:130px;}
+.button4{ width:180px;}
+.button5{ width:150px;}
+.button6{ width:180px;}
+.side_botton{ float:right; width:300px; margin:20px;}
+.side_botton ul{ margin:0px; padding:0px;  list-style-type: none;}
+.side_botton ul li{ margin:0 0 10px 0;}
+
+.sumbit{ height:70px; width:300px; cursor:pointer; border:none; background:#ccf300; border-radius:10px; box-shadow:0 0 7px #666; font-size:16px; color:#000; font-weight:600; opacity:0.7; }
+
+.dropdownbox{ width:230px; float:left; }
+.select{ width:210px; margin:5px 10px; height:30px;}
+
+.accoright{ float:right; width:300px; height:440px; border-left:1px solid #666; border-top:1px solid #666; border-right:1px solid #666;}
+.accoleft{ float:left; width:674px; height:440px; border-left:1px solid #666; border-top:1px solid #666; border-right:1px solid #666; }
